@@ -1,0 +1,14 @@
+.header__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5em;
+  background: #ccc;
+  height: 50px;
+}
+
+.header__link {
+   color: #fff;
+   font-weight: 700;
+   text-decoration: none;
+}
